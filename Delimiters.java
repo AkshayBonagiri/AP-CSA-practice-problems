@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Delimiters   //my  answer
+public class Delimiters   //my answeer
 {
 
     /** The open and close delimiters * */
